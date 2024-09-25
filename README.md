@@ -57,4 +57,4 @@ Warning : All risks are borne by the user, software damage or the like is not yo
 
 
             
-   Credits : @HmmmmmdahlahV (tele) and all developers or admins on Infinix Hot 20s
+   Credits : elSamueltoDeFolta (tele) and all developers or admins on Infinix Hot 20s
